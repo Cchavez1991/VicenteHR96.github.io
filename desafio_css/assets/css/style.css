@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  font-family: "Share Tech Mono", monospace;
+}
+
+header {
+  background-image: url(../imgs/header_2.jpg);
+  background-size: cover;
+  color: white;
+  padding: 4vh;
+  font-family: "Share Tech Mono", monospace;
+  font-size: 1.875em;
+  font-style: initial;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  height: 4em;
+}
+
+main {
+  content: 13vh;
+  padding: 17vh;
+}
+
+.catalogoTitulo {
+  padding-bottom: 3.125em;
+}
+
+.tabla li {
+  width: 100%;
+  text-align: center;
+  border: 3.125em;
+  border-color: black;
+}
+
+.catalogo {
+  width: 18.75em;
+  padding-right: 20%;
+}
+
+.listaCatalogo {
+  list-style-type: none;
+  text-align: center;
+}
+
+footer {
+  background-image: url(../imgs/header_2.jpg);
+  color: white;
+  padding: 3vh;
+  text-align: center;
+}
+
+.enlacesFooter li {
+  display: inline;
+  list-style-type: none;
+  color: white;
+  text-decoration: none;
+  text-decoration-color: white;
+  padding-left: 9.375em;
+  padding-right: 9.375em;
+  padding-top: 6.25em;
+}
+
+.rrssLogo {
+  width: 2.5em;
+  align-items: center;
+}
+
+.copyright {
+  padding-top: 2.1875em;
+}

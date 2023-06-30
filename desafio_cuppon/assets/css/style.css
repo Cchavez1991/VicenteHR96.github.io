@@ -1,0 +1,37 @@
+.blanco {
+  color: white !important;
+}
+
+.blancoOpaco {
+  color: #f8f9fa;
+}
+
+.bordeBlanco {
+  border-color: #fff;
+}
+
+.bordeBlancoOpaco {
+  border-color: #f8f9fa;
+}
+
+.fondoVerde {
+  background-color: #28a745;
+}
+
+.letraVerde {
+  color: #28a745;
+}
+
+.letraGris {
+  color: #707070 !important;
+}
+
+.robotoM {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
+
+.robotoL {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
